@@ -1,0 +1,4 @@
+ext.mytest1 = {
+    System.out.println("121213212121hhhhhhhhhdadad")
+    return "mytest1111"
+}
