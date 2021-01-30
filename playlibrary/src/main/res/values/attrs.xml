@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ReadyTimeView">
+        <attr name="backWidth" format="dimension" />    <!--背景圆环宽度-->
+        <attr name="foreWidth" format="dimension" />    <!--进度圆环宽度-->
+        <attr name="bgColor" format="color" />          <!--背景圆环颜色-->
+        <attr name="backColor" format="color" />        <!--背景圆环颜色-->
+        <attr name="foreColor" format="color" />        <!--进度圆环颜色-->
+        <attr name="textColor" format="color" />        <!--进度文字颜色-->
+        <attr name="finishTextColor" format="color" />  <!--进度最后文字颜色-->
+        <attr name="textSize" format="dimension" />     <!--进度文字大小-->
+        <attr name="progress" format="integer" />       <!--圆环进度-->
+
+    </declare-styleable>
+</resources>

@@ -1,3 +1,6 @@
-include ':mylibrary'
+include ':playlibrary'
+include ':singlibrary'
+include ':baselibrary'
+include ':songlibrary'
 include ':app'
 rootProject.name = "MyArchitectDemo"

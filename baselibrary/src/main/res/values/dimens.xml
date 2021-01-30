@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--歌词高亮字体大小-->
+    <dimen name="lrc_high_night_font_size">20dp</dimen>
+    <!--歌词正常字体大小-->
+    <dimen name="lrc_normal_font_size">18dp</dimen>
+    <!--歌词行间距-->
+    <dimen name="lrc_line_space">18dp</dimen>
+    <!--歌词倒计时白点大小-->
+    <dimen name="lrc_countdown_space">5dp</dimen>
+    <!--歌词倒计时白点大小-->
+    <dimen name="lrc_countdown_radius">4dp</dimen>
+    <!--歌词拖拽icon大小-->
+    <dimen name="lrc_drag_icon_size">12dp</dimen>
+    <!--歌词倒计时和歌词之间的padding，默认是有一个行间距的padding-->
+    <dimen name="lrc_padding_top">8dp</dimen>
+
+
+</resources>
